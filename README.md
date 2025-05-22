@@ -1,8 +1,8 @@
 # PRESENT 2 DIFFERENT PROJECT SCENARIOS
 
-## Reg. no: 212224220011
+## Reg. no: 212224040275
 
-## Name : ASHIKA TR
+## Name : Rhudhra phriyamvadha K S
 
 ## Date : 15-05-2025
 
