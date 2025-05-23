@@ -77,7 +77,7 @@ Usability testing ensures the product fits naturally into time-constrained lifes
 
 #### 3. Creating Personas
 
-PERSONA 1: Rahul, 32, Software Developer
+PERSONA 1: Ruban, 32, Software Developer
 
 Demographics: Male, Urban, Single, Lives in Bangalore
 
@@ -89,7 +89,7 @@ Pain Points: Lacks energy and time for regular fitness, forgets to log meals
 
 Motivations: Wants to avoid long-term health issues and boost productivity
 
-PERSONA 2: Neha, 29, Marketing Manager
+PERSONA 2: Nikitha, 29, Marketing Manager
 
 Demographics: Female, Urban, Married, Lives in Mumbai
 
@@ -138,7 +138,7 @@ Card sorting helps align menu structure with user logic.
 
 #### 3. Creating Personas
 
-PERSONA 1: Amit, 38, Government Employee (User as a Parent)
+PERSONA 1: Surya, 38, Government Employee (User as a Parent)
 
 Demographics: Male, Rural town, Married, 2 kids
 
@@ -150,7 +150,7 @@ Pain Points: Finds forms confusing, doesn’t know required steps
 
 Motivations: Wants to complete tasks quickly to avoid missing work
 
-PERSONA 2: Priya, 26, First-Time Mother
+PERSONA 2: Jyothika, 26, First-Time Mother
 
 Demographics: Female, Urban, Recently gave birth
 
